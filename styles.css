@@ -1,0 +1,14 @@
+h1{
+    font: xx-small;
+}
+#name{
+    font: xx-large;
+    background-color: aquamarine;
+}
+body{
+    background-color: beige;
+}
+p{
+    border: 5px solid black;
+    color: blue;
+}
